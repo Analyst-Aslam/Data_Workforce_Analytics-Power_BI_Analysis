@@ -51,13 +51,13 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
   Download the dataset [Data Professional Survey Dataset](https://github.com/Analyst-Aslam/Data_Workforce_Analytics-Power_BI_Analysis/blob/main/Data%20Professional%20Survey%20Dataset.xlsx).
 
 - **Power BI Dashboard File**
-  Download the dashboard [Power BI Analysis Dashboard]()
+  Download the dashboard [Data Workforce Analytics](https://github.com/Analyst-Aslam/Data_Workforce_Analytics-Power_BI_Analysis/blob/main/Data%20Workforce%20Analytics.pbix)
 ---
 
 ### Steps to Load the Dashboard:
 
 1. Open **Power BI Desktop**.
-2. Click on `File` > `Open` and select the `.pbix` file for the dashboard.
+2. Click on `File` > `Open` and select the `Data Workforce Analytics.pbix` file for the dashboard.
 3. If necessary, load the dataset by selecting **Transform Data** > **Apply Changes**.
 4. Interact with the visualizations to explore the key insights.
 
