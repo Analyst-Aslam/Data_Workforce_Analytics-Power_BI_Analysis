@@ -45,10 +45,10 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
 ### Requirements:
 
 - **Power BI Desktop**  
-  (Download from [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494))
+  (Download from [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)).
 
 - **Dataset File**  
-  Download the dataset [Data Professional Survey Dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
+  Download the dataset [Data Professional Survey Dataset](https://github.com/Analyst-Aslam/Data_Workforce_Analytics-Power_BI_Analysis/blob/main/Data%20Professional%20Survey%20Dataset.xlsx).
 
 - **Power BI Dashboard File**
   Download the dashboard [Power BI Analysis Dashboard]()
