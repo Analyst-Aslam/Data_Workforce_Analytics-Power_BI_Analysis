@@ -36,7 +36,7 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
 
 - **Columns**: 28
 
-- **Rows**: (To be determined based on dataset size)
+- **Rows**: 631
 
 ---
 
