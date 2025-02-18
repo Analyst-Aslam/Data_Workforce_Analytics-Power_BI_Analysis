@@ -28,7 +28,7 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
 ## Dataset Information
 
 - **Source**: Dataset sourced from Alex the Analyst's GitHub repository.  
-  (Access the dataset from [GitHub Repository Link](#))
+  (Access the dataset from [GitHub Repository Link](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx))
 
 - **Format**: Excel (.xlsx)
 
