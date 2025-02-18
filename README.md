@@ -32,7 +32,7 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
 
 - **Format**: Excel (.xlsx)
 
-- **Sheet Name**: `Data Professional Survey`
+- **Sheet Name**: `Data Professional Survey Dataset`
 
 - **Columns**: 28
 
@@ -48,8 +48,10 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
   (Download from [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494))
 
 - **Dataset File**  
-  Download the dataset [Power BI - Final Project.xlsx](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
+  Download the dataset [Data Professional Survey Dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
 
+- **Power BI Dashboard File**
+  Download the dashboard [Power BI Analysis Dashboard]()
 ---
 
 ### Steps to Load the Dashboard:
