@@ -6,25 +6,6 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
 
 ---
 
-## Key Features
-
-### 1. **Salary & Compensation Analysis**
-   - Visualizes salary distribution across job roles, industries, and regions.
-
-### 2. **Career Path Insights**
-   - Highlights challenges faced by professionals transitioning into data careers.
-
-### 3. **Job Satisfaction Metrics**
-   - Displays work-life balance, management satisfaction, and learning opportunities.
-
-### 4. **Demographic Breakdown**
-   - Provides a detailed view of respondents' locations, education levels, and diversity within the field.
-
-### 5. **Programming Language Preferences**
-   - Shows trends in the most commonly used programming languages among data professionals.
-
----
-
 ## Dataset Information
 
 - **Source**: Dataset sourced from Alex the Analyst's GitHub repository.  
@@ -65,20 +46,34 @@ This **Power BI Dashboard** provides an interactive analysis of survey responses
 
 ## Visualizations Included
 
-- **Salary Distribution Chart**  
-  Breakdown of salary distribution by job roles and industries.
+`The Data is cleaned and transformed in Power BI for Analysis. The following Visualizations are created to understand the key features included in the data.`
 
-- **Work-Life Balance Heatmap**  
-  Satisfaction levels across different demographics.
+- **Happiness with Salary Gauge**  
+  Shows the satisfaction level with salaries among data professionals.
 
-- **Career Transition Funnel**  
-  Tracks professionals switching to data roles.
+- **Happiness with Work/Life Balance Gauge**  
+  Visualizes satisfaction with work-life balance across demographics.
 
-- **Programming Language Bar Chart**  
-  Displays the most preferred programming languages.
+- **Country of Respondent Treemap**  
+  Displays a breakdown of respondents' countries.
 
-- **Demographic Overview**  
-  Pie charts and maps to analyze diversity within the data field.
+- **No. of Respondents vs Favourite Programming Language (Stacked Column Chart)**  
+  Compares the number of respondents who prefer each programming language.
+
+- **Average Salary by Gender (Donut Chart)**  
+  Visualizes average salary distribution based on gender.
+
+- **Difficulty Level to Break into Data Field (Donut Chart)**  
+  Indicates how challenging respondents found breaking into the data field.
+
+- **Average Age of Respondents (Card)**  
+  Displays the average age of respondents in a card visualization.
+
+- **Total Number of Respondents (Card)**  
+  Shows the total number of respondents to the survey.
+
+- **Average Salary vs Job Title (Stacked Bar Chart)**  
+  Compares the average salary across different job titles.
 
 ---
 
